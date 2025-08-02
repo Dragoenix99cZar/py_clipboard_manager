@@ -1,0 +1,1 @@
+# py_clipboard_manager
