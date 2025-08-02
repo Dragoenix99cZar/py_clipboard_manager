@@ -1,0 +1,13 @@
+{
+  "window": {
+    "x": 1132,
+    "y": 231,
+    "width": 352,
+    "height": 600,
+    "always_on_top": true
+  },
+  "paths": {
+    "thumbs_dir": "thumbs",
+    "items_dir": "items"
+  }
+}
